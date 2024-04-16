@@ -1,9 +1,9 @@
 ### WHAT'S NEW WITH THIS REPOSITIORY
 
-## 1. Check out [jackson.txt](/jackson.txt) which contains a fictional biograph to train GPT on.
+## 1. Check out [jackson.txt](/jackson.txt) which contains a fictional biography to train GPT on.
 
 
-For more information about how I trained this model on that dataset you can checkout the config file [here](/config/train_jackson_char)
+For more information about how I trained this model on that dataset, you can check out the config file [here](/config/train_jackson_char)
 
 ## 2. Check out how the binary addition works
 
